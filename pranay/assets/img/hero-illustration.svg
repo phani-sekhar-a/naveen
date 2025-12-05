@@ -1,0 +1,33 @@
+<svg width="720" height="540" viewBox="0 0 720 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0" x1="120" y1="40" x2="620" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C7ED6"/>
+      <stop offset="1" stop-color="#51CF66"/>
+    </linearGradient>
+    <linearGradient id="paint1" x1="90" y1="120" x2="330" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E3F2FD"/>
+      <stop offset="1" stop-color="#F8F9FA"/>
+    </linearGradient>
+    <linearGradient id="paint2" x1="380" y1="90" x2="630" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF5F5"/>
+      <stop offset="1" stop-color="#E7F5FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="40" width="640" height="460" rx="48" fill="url(#paint0)" opacity="0.08"/>
+  <rect x="70" y="80" width="280" height="380" rx="32" fill="url(#paint1)"/>
+  <rect x="360" y="80" width="290" height="380" rx="32" fill="url(#paint2)"/>
+  <circle cx="210" cy="180" r="60" fill="#74C0FC"/>
+  <path d="M210 260C166 260 130 296 130 340V400H290V340C290 296 254 260 210 260Z" fill="#228BE6"/>
+  <circle cx="505" cy="190" r="56" fill="#FF8787"/>
+  <path d="M505 260C468 260 438 290 438 327V400H572V327C572 290 542 260 505 260Z" fill="#FF6B6B"/>
+  <rect x="150" y="340" width="240" height="120" rx="24" fill="#ffffff" opacity="0.7"/>
+  <rect x="170" y="360" width="200" height="16" rx="8" fill="#1C7ED6" opacity="0.7"/>
+  <rect x="170" y="390" width="120" height="16" rx="8" fill="#15AABF" opacity="0.7"/>
+  <rect x="410" y="340" width="240" height="120" rx="24" fill="#ffffff" opacity="0.7"/>
+  <rect x="430" y="360" width="200" height="16" rx="8" fill="#FF6B6B" opacity="0.7"/>
+  <rect x="430" y="390" width="140" height="16" rx="8" fill="#FFA8A8" opacity="0.7"/>
+  <circle cx="150" cy="120" r="14" fill="#ffd43b" opacity="0.6"/>
+  <circle cx="320" cy="120" r="10" fill="#15aabf" opacity="0.6"/>
+  <circle cx="420" cy="120" r="12" fill="#845ef7" opacity="0.6"/>
+  <circle cx="620" cy="140" r="18" fill="#63e6be" opacity="0.6"/>
+</svg>
